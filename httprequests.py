@@ -4,7 +4,7 @@
 # @contact: 2621408918@qq.com
 
 #导入requests
-from requests import post, get
+import requests 
 #接口函数
 def http_requests(url,method,data,token=None):
     global res_alljson
