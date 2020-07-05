@@ -3,9 +3,9 @@
 # @author: hyt
 # @contact: 2621408918@qq.com
 # 导入方法
-from python_test.py_test3.httprequests import http_requests
-from python_test.py_test3.R_W_excels import read_data
-from python_test.py_test3.R_W_excels import wite_data
+from httprequests import http_requests
+from R_W_excels import read_data
+from R_W_excels import wite_data
 
 Token = None
 
