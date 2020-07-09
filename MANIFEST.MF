@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: hasse
+Build-Jdk: 1.7.0_85
+Extension-Name: python3
+Implementation-Title: python3
+Implementation-Version: 1.3
+Group-Id: org.jenkins-ci.plugins
+Short-Name: python3
+Long-Name: Python3 Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Python3+Plugin
+Plugin-Version: 1.3
+Hudson-Version: 1.565.1
+Jenkins-Version: 1.565.1
+Plugin-Developers: R. Tyler Ballance:rtyler:tyler@slide.com
+
